@@ -7,21 +7,20 @@ I am interested in solving problems with Python (NumPy, Tensorflow, Pandas) in m
 # What tools and languages do I use?
 
 ## Languages
-<img align="left" alt="gsostarko" width="50px" src="./img/python-svgrepo-com.svg"/>
-<img align="left" alt="gsostarko" width="50px" src="./img/opendss.webp"/>
-<img align="left" alt="gsostarko" width="50px" src="./img/html5-svgrepo-com.svg"/>
-<img align="left" alt="gsostarko" width="50px" src="./img/css3-svgrepo-com.svg"/>
-<img align="left" alt="gsostarko" width="50px" src="./img/javascript-svgrepo-com.svg"/>
-<img align="left" alt="gsostarko" width="50px" src="./img/sql-database-generic-svgrepo-com.svg"/>
+<img align="left" alt="python" width="50px" src="./img/python-svgrepo-com.svg"/>
+<img align="left" alt="html5" width="50px" src="./img/html5-svgrepo-com.svg"/>
+<img align="left" alt="css3" width="50px" src="./img/css3-svgrepo-com.svg"/>
+<img align="left" alt="javascritp" width="50px" src="./img/javascript-svgrepo-com.svg"/>
+<img align="left" alt="sql" width="50px" src="./img/sql-database-generic-svgrepo-com.svg"/>
 <br><br><br>
 
-In my everyday life and on my job i use the following:
+## Embeded systems and hardware
+<img align="left" alt="esp32" width="50px" src="./img/esp32.jpg"/>
+<br><br><br>
 
-* OpenDSS 
-* Neplan
-* Eplan
-* Solidworks
-* Autocad
+## Other tools and software
+<img align="left" alt="opendss" width="50px" src="./img/opendss.webp"/>
+<br><br><br>
 
 # Connect with me:
 
