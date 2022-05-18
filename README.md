@@ -18,7 +18,7 @@ In my everyday life and on my job i use the following:
 * Autocad
 
 # Connect with me:
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 # Python projects
