@@ -5,12 +5,18 @@ My name is Goran and I am an electrical engineer who loves to code and learn new
 I am interested in solving problems with Python (NumPy, Tensorflow, Pandas) in my everyday job. Also I use OpenDSS combined with Python. 
 
 # What tools and languages do I use?
+
+## Languages
+<img align="left" alt="gsostarko" width="50px" src="./img/python-svgrepo-com.svg"/>
+<img align="left" alt="gsostarko" width="50px" src="./img/opendss.webp"/>
+<img align="left" alt="gsostarko" width="50px" src="./img/html5-svgrepo-com.svg"/>
+<img align="left" alt="gsostarko" width="50px" src="./img/css3-svgrepo-com.svg"/>
+<img align="left" alt="gsostarko" width="50px" src="./img/javascript-svgrepo-com.svg"/>
+<img align="left" alt="gsostarko" width="50px" src="./img/sql-database-generic-svgrepo-com.svg"/>
+<br><br><br>
+
 In my everyday life and on my job i use the following:
-* Python
-* HTML
-* CSS
-* JavaScript
-* SQL
+
 * OpenDSS 
 * Neplan
 * Eplan
@@ -19,8 +25,8 @@ In my everyday life and on my job i use the following:
 
 # Connect with me:
 
-[ <a href="https://www.linkedin.com/in/goran-%C5%A1ostarko-b6a10647/"> <img align="left" alt="gsostarko" width="50px" src="./img/linkedin-svgrepo-com.svg" />]
-
+<a href="https://www.linkedin.com/in/goran-%C5%A1ostarko-b6a10647/"> <img align="left" alt="gsostarko" width="50px" src="./img/linkedin-svgrepo-com.svg"/><br><br><br>
+  
 # Python projects
 ## Scripts
 [Duval triangle ploting script](https://github.com/gsostarko/duval_triangle) is a simple Python script that lests you plot a Duval triangle by entering %CH<sub>4</sub>, %C<sub>2</sub>H<sub>2</sub> and the %C<sub>2</sub>H<sub>4</sub> values.
