@@ -17,6 +17,10 @@ In my everyday life and on my job i use the following:
 * Solidworks
 * Autocad
 
+# Connect with me:
+[![website](./readme_img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 # Python projects
 ## Scripts
 [Duval triangle ploting script](https://github.com/gsostarko/duval_triangle) is a simple Python script that lests you plot a Duval triangle by entering %CH<sub>4</sub>, %C<sub>2</sub>H<sub>2</sub> and the %C<sub>2</sub>H<sub>4</sub> values.
