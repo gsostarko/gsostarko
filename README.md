@@ -18,7 +18,8 @@ In my everyday life and on my job i use the following:
 * Autocad
 
 # Connect with me:
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/goran-%C5%A1ostarko-b6a10647/)
+
+[ <a href="https://www.linkedin.com/in/goran-%C5%A1ostarko-b6a10647/"> <img align="left" alt="gsostarko" width="50px" src="./img/linkedin-svgrepo-com.svg" />]
 
 # Python projects
 ## Scripts
