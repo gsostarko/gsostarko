@@ -1,5 +1,5 @@
 ## Who am I?
-My name is Goran and I am an electrical engineer who loves to code and learn new stuff. In my free time I make electronics projects (Arduino & ESP32 boards), print stuff on my 3D printer, code, and try to learn new stuff everyday. 
+My name is Goran and I am an electrical engineer who loves to code and learn new stuff. In my free time I make electronics projects (Arduino & ESP32 boards), print stuff on my 3D printer, code, and try to learn new stuff every day. 
 
 ## What am I interested in?
 I am interested in solving problems with Python (NumPy, Tensorflow, Pandas) in my everyday job. Also I use OpenDSS combined with Python. 
