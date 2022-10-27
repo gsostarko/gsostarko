@@ -6,6 +6,10 @@ I am interested in solving problems with Python (NumPy, Tensorflow, Pandas) in m
 
 ## What tools and languages do I use?
 
+
+<img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsostarko&hide=jupyter%20notebook&theme=apprentice" />
+
+
 ### Languages
 <img align="left" alt="python" width="50px" src="./img/python-svgrepo-com.svg"/>
 <img align="left" alt="html5" width="50px" src="./img/html5-svgrepo-com.svg"/>
