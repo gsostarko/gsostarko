@@ -7,7 +7,7 @@ I am interested in solving problems with Python (NumPy, Tensorflow, Pandas) in m
 ## What tools and languages do I use?
 
 
-<img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsostarko&hide=jupyter%20notebook&theme=apprentice&langs_count=5" />
+<img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsostarko&hide=jupyter%20notebook&theme=apprentice&langs_count=10" />
 
 
 ### Languages
