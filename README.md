@@ -4,27 +4,6 @@ My name is Goran and I am an electrical engineer who loves to code and learn new
 ## What am I interested in?
 I am interested in solving problems with Python (NumPy, Tensorflow, Pandas) in my everyday job. Also I use OpenDSS combined with Python. 
 
-## What tools and languages do I use?
-
-
-<img align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsostarko&hide=jupyter%20notebook&theme=apprentice&langs_count=10" />
-
-
-### Languages
-<img align="left" alt="python" width="50px" src="./img/python-svgrepo-com.svg"/>
-<img align="left" alt="html5" width="50px" src="./img/html5-svgrepo-com.svg"/>
-<img align="left" alt="css3" width="50px" src="./img/css3-svgrepo-com.svg"/>
-<img align="left" alt="javascritp" width="50px" src="./img/javascript-svgrepo-com.svg"/>
-<img align="left" alt="sql" width="50px" src="./img/sql-database-generic-svgrepo-com.svg"/>
-<br><br><br>
-
-### Embeded systems and hardware
-<img align="left" alt="esp32" width="50px" src="./img/esp32.jpg"/>
-<br><br><br>
-
-### Other tools and software
-<img align="left" alt="opendss" width="50px" src="./img/opendss.webp"/>
-<br><br><br>
 
 ## Connect with me:
 
