@@ -1,5 +1,5 @@
 ## Who am I?
-My I'm an electrical engineerwho loves tinkering with electronics and writing code. Building projects and sharing my knowledge through open-source contributions.
+I'm an electrical engineerwho loves tinkering with electronics and writing code. Building projects and sharing my knowledge through open-source contributions.
 
 
 ## Connect with me:
