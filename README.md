@@ -30,12 +30,3 @@ I am interested in solving problems with Python (NumPy, Tensorflow, Pandas) in m
 
 <a href="https://www.linkedin.com/in/goran-%C5%A1ostarko-b6a10647/"> <img align="left" alt="gsostarko" width="50px" src="./img/linkedin-svgrepo-com.svg"/><br><br><br>
   
-## Python projects
-### Scripts
-[Duval triangle ploting script](https://github.com/gsostarko/duval_triangle) is a simple Python script that lets you plot a Duval triangle by entering %CH<sub>4</sub>, %C<sub>2</sub>H<sub>2</sub> and the %C<sub>2</sub>H<sub>4</sub> values.
-
-[Circulating currents calculating script](https://github.com/gsostarko/circulating_currents) is a Python scrip that calculates the circulating current valuse for two parallel power transformers for every connection combination. The main goal of this script is to show what connection types of transformers can work in parallel.
-
-### Apps 
-**Comming soon**
-
